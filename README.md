@@ -1,4 +1,6 @@
-# 0x09. Implement a design from scratch
+<img src="icon.png" align="right" />
+
+# 0x09. Implement a design from scratch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.
 
